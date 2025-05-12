@@ -5,6 +5,4 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [CSS Selectors - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors)

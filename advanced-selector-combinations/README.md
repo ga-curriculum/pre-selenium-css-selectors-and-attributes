@@ -68,8 +68,6 @@ For greater precision, you can use the form’s id:
 
 Now, only buttons inside the form with `id="signup-form"` will be selected.
 
-tktk asset: Visual breakdown showing `form button` matching all nested buttons and `#signup-form button` matching a specific case on a sample HTML diagram.
-
 > 🧠 When you want to automate actions only within a particular section or form, descendant selectors help you avoid picking up elements that look similar but are in the wrong context.
 
 ## Child selectors: Differentiating direct parent-child relationships

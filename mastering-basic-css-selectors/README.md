@@ -70,7 +70,7 @@ Suppose you’re working with this button:
 - `.signup-btn` will match this button (and any others with the same class).
 - `button.signup-btn` matches only `<button>` elements tagged “signup-btn.”
 
-<img src="./assets/sign-up-button.png" alt="tktk" width="400" />
+<img src="./assets/sign-up-button.png" alt="sign up button" width="400" />
 
 <br>
 
