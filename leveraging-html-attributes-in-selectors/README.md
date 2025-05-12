@@ -192,7 +192,7 @@ Enter a few of the selectors below in the Find bar to see them in action:
 
 > 💡 As you enter each selector, matching elements will be highlighted in the DOM view.
 
-### Reflect and Experiment
+### Experiment
 
 - **Observe what matches** each selector and why.
 - Try **editing attribute values directly** in the Elements panel and re-run your selectors to see how the match results change.

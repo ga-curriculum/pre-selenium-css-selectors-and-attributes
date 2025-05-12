@@ -9,13 +9,13 @@ This module introduces learners to the fundamentals of CSS selectors and HTML at
 
 ## Content
 
-| Lesson                                                                                                     | Est. Delivery Time | Skills                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------- |
+| Lesson                                                                                                      | Est. Delivery Time | Skills                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------- |
 | [Mastering Basic CSS Selectors](../mastering-basic-css-selectors/README.md)                                 |       15 min       | Identify and use basic CSS selectors including element, class, and ID selectors.                                     |
-| [Leveraging HTML Attributes in Selectors](../leveraging-html-attributes-in-selectors/README.md)             |       10 min       | Apply attribute selectors to locate elements based on HTML attributes such as type, name, or href.                   |
-| [Advanced Selector Combinations](../advanced-selector-combinations/README.md)                               |       12 min       | Use compound and descendant selectors to target elements within specific structures (such as buttons inside a form). |
-| [Selector Testing and Refinement with DevTools](../selector-testing-and-refinement-with-devtools/README.md) |       8 min        | Test CSS selectors in the browser using Chrome DevTools to validate that the correct element is targeted.            |
-| **Total content**                                                                                          |       45 min       |                                                                                                                      |
+| [Leveraging HTML Attributes in Selectors](../leveraging-html-attributes-in-selectors/README.md)             |       15 min       | Apply attribute selectors to locate elements based on HTML attributes such as type, name, or href.                   |
+| [Advanced Selector Combinations](../advanced-selector-combinations/README.md)                               |       10 min       | Use compound and descendant selectors to target elements within specific structures (such as buttons inside a form). |
+| [Selector Testing and Refinement with DevTools](../selector-testing-and-refinement-with-devtools/README.md) |       5 min        | Test CSS selectors in the browser using Chrome DevTools to validate that the correct element is targeted.            |
+| **Total content**                                                                                           |       45 min       |                                                                                                                      |
 
 ## References
 
