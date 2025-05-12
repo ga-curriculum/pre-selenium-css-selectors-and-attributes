@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Pre-Selenium: CSS Selectors and Attributes</span>
   <span class="subhead">References</span>
 </h1>
 

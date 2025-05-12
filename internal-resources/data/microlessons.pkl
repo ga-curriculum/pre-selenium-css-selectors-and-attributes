@@ -2,30 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+masteringBasicCssSelectors = new Template.Microlesson {
+  friendlyName = "Mastering Basic CSS Selectors"
+  dirName = "mastering-basic-css-selectors"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+leveragingHtmlAttributesInSelectors = new Template.Microlesson {
+  friendlyName = "Leveraging HTML Attributes in Selectors"
+  dirName = "leveraging-html-attributes-in-selectors"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+advancedSelectorCombinations = new Template.Microlesson {
+  friendlyName = "Advanced Selector Combinations"
+  dirName = "advanced-selector-combinations"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+selectorTestingAndRefinementWithDevtools = new Template.Microlesson {
+  friendlyName = "Selector Testing and Refinement with DevTools"
+  dirName = "selector-testing-and-refinement-with-devtools"
   type = "Content"
   videoUrl = ""
 }

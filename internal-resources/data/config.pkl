@@ -12,25 +12,33 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "Pre-Selenium: CSS Selectors and Attributes"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "pre-selenium-css-selectors-and-attributes"
   type = "Lesson"
 }
 
 courses {
   new {
     // Do not remove this fallback course!
+    name = "ptr"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.masteringBasicCssSelectors
+      mls.leveragingHtmlAttributesInSelectors
+      mls.advancedSelectorCombinations
+      mls.selectorTestingAndRefinementWithDevtools
+    }
+  }
+  new {
+    // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.masteringBasicCssSelectors
+      mls.leveragingHtmlAttributesInSelectors
+      mls.advancedSelectorCombinations
+      mls.selectorTestingAndRefinementWithDevtools
     }
   }
 }
