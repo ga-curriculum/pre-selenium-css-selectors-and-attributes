@@ -3,7 +3,7 @@
   <span class="subhead">Instructor Guide</span>
 </h1>
 
-## Mastering Basic CSS Selectors
+## Basic CSS Selectors
 
 **How to best deliver this microlesson:**
 
@@ -16,7 +16,7 @@
 
 - First question: C. `#submit-btn` (IDs should be unique, so this selector matches a single element)
 
-## Leveraging HTML Attributes in Selectors
+## HTML Attributes in Selectors
 
 ### How to best deliver this microlesson
 

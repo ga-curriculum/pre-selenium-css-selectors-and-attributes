@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Pre-Selenium: CSS Selectors and Attributes</span>
-  <span class="subhead">Mastering Basic CSS Selectors</span>
+  <span class="subhead">Basic CSS Selectors</span>
 </h1>
 
 **Learning Objective:** Identify and use basic CSS selectors including element, class, and ID selectors.

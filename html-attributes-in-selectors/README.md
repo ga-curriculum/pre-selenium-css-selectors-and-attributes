@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Pre-Selenium: CSS Selectors and Attributes</span>
-  <span class="subhead">Leveraging HTML Attributes in Selectors</span>
+  <span class="subhead">HTML Attributes in Selectors</span>
 </h1>
 
 **Learning objective:** Apply attribute selectors to locate elements based on HTML attributes such as `type`, `name`, or `href`.

@@ -20,8 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Mastering Basic CSS Selectors",
-          "dirName": "mastering-basic-css-selectors",
+          "friendlyName": "Basic CSS Selectors",
+          "dirName": "basic-css-selectors",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Leveraging HTML Attributes in Selectors",
-          "dirName": "leveraging-html-attributes-in-selectors",
+          "friendlyName": "HTML Attributes in Selectors",
+          "dirName": "html-attributes-in-selectors",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -89,8 +89,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Mastering Basic CSS Selectors",
-          "dirName": "mastering-basic-css-selectors",
+          "friendlyName": "Basic CSS Selectors",
+          "dirName": "basic-css-selectors",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -99,8 +99,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Leveraging HTML Attributes in Selectors",
-          "dirName": "leveraging-html-attributes-in-selectors",
+          "friendlyName": "HTML Attributes in Selectors",
+          "dirName": "html-attributes-in-selectors",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

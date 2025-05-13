@@ -2,16 +2,16 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-masteringBasicCssSelectors = new Template.Microlesson {
-  friendlyName = "Mastering Basic CSS Selectors"
-  dirName = "mastering-basic-css-selectors"
+basicCssSelectors = new Template.Microlesson {
+  friendlyName = "Basic CSS Selectors"
+  dirName = "basic-css-selectors"
   type = "Content"
   videoUrl = ""
 }
 
-leveragingHtmlAttributesInSelectors = new Template.Microlesson {
-  friendlyName = "Leveraging HTML Attributes in Selectors"
-  dirName = "leveraging-html-attributes-in-selectors"
+htmlAttributesInSelectors = new Template.Microlesson {
+  friendlyName = "HTML Attributes in Selectors"
+  dirName = "html-attributes-in-selectors"
   type = "Content"
   videoUrl = ""
 }

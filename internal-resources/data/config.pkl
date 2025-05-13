@@ -24,8 +24,8 @@ courses {
     name = "ptr"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.masteringBasicCssSelectors
-      mls.leveragingHtmlAttributesInSelectors
+      mls.basicCssSelectors
+      mls.htmlAttributesInSelectors
       mls.advancedSelectorCombinations
       mls.selectorTestingAndRefinementWithDevtools
     }
@@ -35,8 +35,8 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.masteringBasicCssSelectors
-      mls.leveragingHtmlAttributesInSelectors
+      mls.basicCssSelectors
+      mls.htmlAttributesInSelectors
       mls.advancedSelectorCombinations
       mls.selectorTestingAndRefinementWithDevtools
     }
